@@ -1,0 +1,19 @@
+.footer {
+    background: linear-gradient(135deg, #3b5998, #8b9dc3) !important;
+    border-top: 1px solid white !important;
+    box-shadow: 0px 0px 20px rgba(106, 21, 162, 0.5) !important;
+    padding: 20px !important;
+    color: white !important;
+}
+
+.footer h5, .footer p {
+    color: white !important;
+}
+
+.footer a img {
+    transition: transform 0.3s !important;
+}
+
+.footer a:hover img {
+    transform: scale(1.1) !important;
+}
